@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Assignments includes the complete set of problem statements along with
+  their solutions.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 19b21b92-7b2d-325e-ed5c-3b2615064cc9
 ---
