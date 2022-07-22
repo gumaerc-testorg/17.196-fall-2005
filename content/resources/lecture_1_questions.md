@@ -5,6 +5,7 @@ file: /courses/17-196-globalization-fall-2005/9b52f14433ee0deef17a2819b53fa9ee_l
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture_1_questions.pdf
 uid: 9b52f144-33ee-0dee-f17a-2819b53fa9ee
 ---
 Outline of topics covered in the lecture.
-
