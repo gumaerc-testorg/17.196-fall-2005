@@ -2,6 +2,7 @@
 content_type: resource
 description: Outline of topics covered in the lecture.
 file: /courses/17-196-globalization-fall-2005/62895ab25696b1bb3b1e997df486ed90_lecture_8_reading_questions_nov14.pdf
+file_size: 89196
 file_type: application/pdf
 learning_resource_types:
 - Readings
