@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline of topics covered in the lecture.
-file: /courses/17-196-globalization-fall-2005/c726143ee8afbd0410a05c6a1cd4bcb1_lecture_10_questions.pdf
+file: /ol-ocw-studio-app/courses/17-196-globalization-fall-2005/c726143ee8afbd0410a05c6a1cd4bcb1_lecture_10_questions.pdf
 file_size: 79481
 file_type: application/pdf
 learning_resource_types:
